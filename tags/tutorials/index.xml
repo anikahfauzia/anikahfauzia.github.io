@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorials on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/tags/tutorials/</link>
+    <description>Recent content in Tutorials on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprise! You Can Now Access iCloud Email on Your Android Phone - Here&#39;s How!</title>
+      <link>https://anikahfauzia.github.io/posts/surprise-you-can-now-access-icloud-email-on-your-android-phone-here-s-how-/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/surprise-you-can-now-access-icloud-email-on-your-android-phone-here-s-how-/</guid>
+      <description>Introduction to Accessing iCloud Email on Your Android Phone Apple’s iCloud email service is now available to Android users! This means Android users can now access their iCloud email on their Android phone, easily and quickly. Here, we’ll explain what iCloud is and the benefits of accessing iCloud email on an Android phone, and then provide a step-by-step guide on how to set up iCloud email on an Android phone.</description>
+    </item>
+    
+    <item>
+      <title>Surprising Trick to Boot TWRP in Seconds - No Tech Knowledge Required!</title>
+      <link>https://anikahfauzia.github.io/posts/surprising-trick-to-boot-twrp-in-seconds-no-tech-knowledge-required-/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/surprising-trick-to-boot-twrp-in-seconds-no-tech-knowledge-required-/</guid>
+      <description>Introduction Are you looking for a way to boot TWRP quickly without any tech knowledge? If yes, then you are in the right place. In this blog post, we will discuss a trick to boot TWRP in seconds without any tech knowledge.
+Definition of TWRP TWRP stands for Team Win Recovery Project and it is an open-source custom recovery image for Android-based devices. It is a powerful tool that allows you to perform various tasks such as flashing custom ROMs, rooting, backing up and restoring data, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Security on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/tags/computer-security/</link>
+    <description>Recent content in Computer Security on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/tags/computer-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Won&#39;t Believe What Happens When You Edit the Host File in Windows!</title>
+      <link>https://anikahfauzia.github.io/posts/you-won-t-believe-what-happens-when-you-edit-the-host-file-in-windows-/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/you-won-t-believe-what-happens-when-you-edit-the-host-file-in-windows-/</guid>
+      <description>IV. Conclusion
+You Won&amp;rsquo;t Believe What Happens When You Edit the Host File in Windows! Have you ever wondered what happens when you edit the host file in Windows? If so, you&amp;rsquo;re not alone. Many people are unaware of the powerful potential of editing the host file in Windows. This blog post will explain the basics of editing the host file, the potential outcomes, and the benefits it can offer.</description>
+    </item>
+    
+  </channel>
+</rss>

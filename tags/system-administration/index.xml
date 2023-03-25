@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>System Administration on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/tags/system-administration/</link>
+    <description>Recent content in System Administration on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/tags/system-administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Simple Steps to Mastering Environment Variables and Unlocking Your Full Potential!</title>
+      <link>https://anikahfauzia.github.io/posts/5-simple-steps-to-mastering-environment-variables-and-unlocking-your-full-potential-/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/5-simple-steps-to-mastering-environment-variables-and-unlocking-your-full-potential-/</guid>
+      <description>Introduction Welcome to the world of environment variables! Environment variables are a powerful tool for developers, allowing them to customize their development environment and unlock their full potential. In this blog post, we&amp;rsquo;ll explore the basics of environment variables and provide you with five simple steps to mastering them.
+Definition of Environment Variables Environment variables are pieces of data that are stored in the operating system environment. They can be used to store information such as user preferences, application settings, and system paths.</description>
+    </item>
+    
+  </channel>
+</rss>

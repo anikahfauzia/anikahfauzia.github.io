@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android OS on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/tags/android-os/</link>
+    <description>Recent content in Android OS on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/tags/android-os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover the Secret Way to Boot Into Recovery with Just One Fastboot Command!</title>
+      <link>https://anikahfauzia.github.io/posts/discover-the-secret-way-to-boot-into-recovery-with-just-one-fastboot-command-/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/discover-the-secret-way-to-boot-into-recovery-with-just-one-fastboot-command-/</guid>
+      <description>Introduction to Boot Into Recovery Recovery mode is a hidden menu on Android devices that allows users to perform various maintenance tasks such as wiping data, flashing firmware, and more. Knowing how to boot into recovery mode can come in handy for troubleshooting and fixing issues with your device. In this article, we&amp;rsquo;ll explore how to boot into recovery mode with just one fastboot command.
+Definition of Recovery Mode Recovery mode is a hidden menu on Android devices that allows users to perform various maintenance tasks such as wiping data, flashing firmware, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

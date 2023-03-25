@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech Tips on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/tags/tech-tips/</link>
+    <description>Recent content in Tech Tips on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/tags/tech-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This One Simple Trick Could Save Your iPhone Charger From Never Charging Again!</title>
+      <link>https://anikahfauzia.github.io/posts/this-one-simple-trick-could-save-your-iphone-charger-from-never-charging-again-/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/this-one-simple-trick-could-save-your-iphone-charger-from-never-charging-again-/</guid>
+      <description>Introduction Are you having trouble getting your iPhone charger to charge your device? You’re not alone. Many people experience this issue and it can be frustrating. Thankfully, there is a one simple trick that could save your iPhone charger from never charging again.
+Definition of an iPhone charger An iPhone charger is a device that is used to charge an iPhone. It is a small box that plugs into a wall outlet and has a USB cable that connects to the iPhone.</description>
+    </item>
+    
+    <item>
+      <title>This Simple Trick Will Stop Annoying Apps from Automatically Opening on Startup!</title>
+      <link>https://anikahfauzia.github.io/posts/this-simple-trick-will-stop-annoying-apps-from-automatically-opening-on-startup-/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/this-simple-trick-will-stop-annoying-apps-from-automatically-opening-on-startup-/</guid>
+      <description>Introduction Do you find yourself constantly fighting with your computer, trying to stop it from automatically opening apps on startup? If so, you’re not alone. It’s a common issue that can be incredibly annoying. But the good news is, there’s a simple trick you can use to stop those annoying apps from automatically opening on startup.
+Definition of Automatically Opening Apps on Startup When apps are set to automatically open on startup, they will launch automatically when you turn on your computer.</description>
+    </item>
+    
+    <item>
+      <title>Surprise! Here&#39;s the Secret Trick to Uninstalling Apps Instantly Using ADB!</title>
+      <link>https://anikahfauzia.github.io/posts/surprise-here-s-the-secret-trick-to-uninstalling-apps-instantly-using-adb-/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/surprise-here-s-the-secret-trick-to-uninstalling-apps-instantly-using-adb-/</guid>
+      <description>Surprise! Here&amp;rsquo;s the Secret Trick to Uninstalling Apps Instantly Using ADB! Are you tired of waiting for your apps to uninstall? Are you looking for a faster way to get rid of unwanted apps? Look no further! In this blog post, we&amp;rsquo;ll be exploring the secret trick to instantly uninstall apps using ADB.
+Introduction ADB stands for Android Debug Bridge, and it is a command-line tool that allows you to communicate with an Android device.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android Rooting on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/tags/android-rooting/</link>
+    <description>Recent content in Android Rooting on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/tags/android-rooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock the Hidden Potential of Your Android 11 Device with ADB Root and Magisk!</title>
+      <link>https://anikahfauzia.github.io/posts/unlock-the-hidden-potential-of-your-android-11-device-with-adb-root-and-magisk-/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/posts/unlock-the-hidden-potential-of-your-android-11-device-with-adb-root-and-magisk-/</guid>
+      <description>Introduction Android 11 has been released and is now available on many devices. With the new version of Android comes a plethora of new features, but there are still many hidden features that can be unlocked with the help of ADB Root and Magisk.
+What is ADB Root and Magisk? ADB Root is a tool that allows users to gain access to the root of their Android device. This allows users to modify the device&amp;rsquo;s system files, which can be used to customize the look and feel of the device, as well as to add new features.</description>
+    </item>
+    
+  </channel>
+</rss>
